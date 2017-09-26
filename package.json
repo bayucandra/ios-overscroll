@@ -1,0 +1,27 @@
+{
+  "name": "ios-overscroll",
+  "version": "1.0.0",
+  "description": "Prevent overscroll behavior on IOS devices by using single main scroll container like 'window' object or <body> tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bayucandra/ios-overscroll.git"
+  },
+  "keywords": [
+    "ios",
+    "overscroll",
+    "overscroll",
+    "javascript",
+    "ios",
+    "overscroll"
+  ],
+  "author": "Bayu Candra <bayu@biqdev.com> (https://www.biqdev.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayucandra/ios-overscroll/issues"
+  },
+  "homepage": "https://github.com/bayucandra/ios-overscroll#readme"
+}
