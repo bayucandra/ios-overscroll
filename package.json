@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/bayucandra/ios-overscroll/issues"
   },
-  "homepage": "https://github.com/bayucandra/ios-overscroll#readme"
+  "homepage": "https://github.com/bayucandra/ios-overscroll#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
 }

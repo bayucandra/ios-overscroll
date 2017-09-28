@@ -1,0 +1,26 @@
+ecmaFeatures:
+  modules: true
+rules:
+  quotes:
+    - 2
+    - single
+  linebreak-style:
+    - 2
+    - unix
+  semi:
+    - 2
+    - never
+env:
+  es6: true
+  browser: true
+  commonjs: true
+  jquery: true
+extends: 'eslint:recommended'
+globals:
+  spf: true
+  _: true
+  g: true
+  V: true
+  joint: true
+  arrakis: true
+  resemble: true
