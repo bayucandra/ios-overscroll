@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.js"],"names":["biqIosOverScroll"],"mappings":";;AAAA;;AAEA,IAAIA,mBAAmB,wCAAvB","file":"../main.js","sourcesContent":["import {biqIosOverscroll} from \"./module/biq-ios-overscroll\";\n\nlet biqIosOverScroll = new biqIosOverscroll;\n"]}
